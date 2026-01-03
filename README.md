@@ -6,6 +6,8 @@ In this project, I explored commuting behaviour and transport usage patterns acr
 
 I combined national and state-level datasets to produce clear, comparable insights for urban planners, policymakers, and the general public. To improve analytical clarity, I intentionally avoided map-based visualisations and instead focused on trend- and comparison-driven charts that highlight patterns without geographic distortion.
 
+Link to visualisation: https://public.tableau.com/views/FIT3179JamesAsgn1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Approach
 
 I began by defining the key questions around commuting distance, transport usage trends, and regional demand. I sourced and combined multiple datasets from the Australian Bureau of Statistics (ABS) and Data Victoria, ensuring alignment across regions and time periods to support meaningful comparison.
